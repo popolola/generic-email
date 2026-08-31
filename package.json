@@ -1,0 +1,8 @@
+{
+  "name": "generic-email",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "handlebars": "^4.7.9", "xlsx": "^0.18.5" }
+}

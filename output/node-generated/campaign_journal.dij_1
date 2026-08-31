@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE eGAD SYSTEM "eGAD.Dtd">
+<eGAD package="PKUID-000100010001">
+  <jobdata>
+    <datetime>20260823112524</datetime>
+    <platform>Microsoft Windows</platform>
+    <Version major="4" minor="3"/>
+    <JobGUID>C49B4BFC72CBCEBE786E8A48A5D77A88</JobGUID>
+    <JobName>C:\Users\TUF\Desktop\generic-email\output\node-generated\Generic_Email.html</JobName>
+    <JobShortName>Generic_Email.html</JobShortName>
+    <NativeFormat>EHTML</NativeFormat>
+    <ResourceGUID p="1" value="ABC123123123"/>
+  </jobdata>
+  <document docID="1" docMasterID="7A7FA54BBB5EEA23EB2A80C4482F4FAA" docInstanceID="8C278557402341169789B4767A619135">
+    <VendorId>ASS123123123</VendorId>
+    <DocTypeId>FAK123123123</DocTypeId>
+    <AccNo>CL-9988</AccNo>
+    <StmtDate></StmtDate>
+    <DDSDocValue name="Email" type="text" len="16">john@example.com</DDSDocValue>
+    <DDSDocValue name="Subject" type="text" len="27">[Testing] Monthly Statement</DDSDocValue>
+    <DDSDocValue name="From" type="text" len="19">billing@company.com</DDSDocValue>
+    <DDSDocValue name="Reply to" type="text" len="19">billing@company.com</DDSDocValue>
+    <DDSDocValue name="AttachName1" type="text" len="0"></DDSDocValue>
+    <DDSDocValue name="AttachName2" type="text" len="0"></DDSDocValue>
+    <DDSDocValue name="AttachName3" type="text" len="0"></DDSDocValue>
+    <DDSDocValue name="SenderName" type="text" len="19">billing@company.com</DDSDocValue>
+    <CustData>
+    <Name>John Doe</Name>
+    </CustData>
+    <NumberOfPages value="1"/>
+    <Skipped><SPages></SPages></Skipped>
+  </document>
+</eGAD>
