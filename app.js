@@ -1,4 +1,4 @@
-const { runBatchProcessing } = require('./function');
+const { runBatchProcessing } = require('./src/controllers/emailController');
 
 try {
   const result = runBatchProcessing();
